@@ -1,1 +1,15 @@
+langchain
+langchain-core
+faiss-cpu
+langchain_community
+langchain_openai
+openai
 python-dotenv
+openai-whisper
+playwright
+loguru
+vosk
+gtts
+playsound
+sounddevice
+pygobject
